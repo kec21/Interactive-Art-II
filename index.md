@@ -7,3 +7,6 @@ This is a list:
 
 - whatever
 - whatever
+
+Here is the link to my other page:
+[Jan 11](20230111_classmeeting.html)
