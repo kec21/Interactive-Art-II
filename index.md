@@ -1,7 +1,6 @@
 # This is my semester blog
 
-This is some text.
-You need to put a space after to have it do a line break.
+This is where I will be keeping all my documentation for the semester, but also where I will store my thoughts, observations, and ideas that emerge in connection with interactive art.
 
 This is a list:
 
@@ -10,3 +9,4 @@ This is a list:
 
 Here is the link to my other page:
 [Jan 11](20230111_classmeeting.html)
+[Jan 14](20230114_fablab1.md)
