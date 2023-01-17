@@ -9,5 +9,5 @@ This is a list:
 
 Here is the link to my other page:
 [Jan 11](20230111_classmeeting.html)  
-[Jan 15](20230115_athomekit1.html)   
+[Jan 15](20230115_athomekit1.html)  
 [Jan 17](20230117_athomekit2.html)  
