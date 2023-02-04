@@ -16,7 +16,7 @@ I'm still playing with tinkercad and doing the exercises which I also think is h
 
 This one was really interesting. The pontentiometer is definately not very high quality. I thought it wasn't working at all and had to turn it up all the way to get it to work the first time. There might also have been issues with the wires - I replaced a few and that seemed to make it less unstable. The first time I set it up, if I just moved it a little it would stop working. There were a lot of small snags, but I was able to either ask for help or fix it after troubleshooting the setup for a few minutes. I was curious about orientation of the display and whether or not that could be changed, but I asked that in class. I was really just wondering about the limitations of what was possible with setups like this.  
 
-![alt text](images/tinkcad4b1.jpeg)  
+![alt text](images/tinkercad4b1.jpeg)  
 ![alt text](images/tinkercad4b2.jpeg)  
 ![alt text](images/4berror.jpeg)  
 ![alt text](images/4bhello.jpeg)  
