@@ -18,5 +18,5 @@ Here is the link to my at home labs and other experiments:
 [Feb 4](20230204_athomekit4B.html)  
 [Feb 8](20230208_athomekit5A.html)  
 [Feb 9](20230209_athomekit5b.html)  
-[Feb 16](20230216_midtermproject.md)  
-[Feb 19](20230219_midtermproject.md)  
+[Feb 16](20230216_midtermproject.html)  
+[Feb 19](20230219_midtermproject.html)  
