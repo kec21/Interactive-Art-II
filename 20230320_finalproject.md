@@ -7,3 +7,5 @@ Checklist for progress this week:
 - hook up and experiment with buttons
 - design vinyl button covers
 - design bitmapped images for print out that are compatible with the micro printer
+
+I also want to see if I can get the sequin LEDs working before review for the growth coat.  
