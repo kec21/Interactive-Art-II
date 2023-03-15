@@ -8,7 +8,7 @@ I did not have a proper claw tool, so I used the lamp coil and some wooden stick
 
 ![alt text](images/clawrig.jpeg)  
 
-The last design piece for the LEDs was the vinyl ring that would go on the back of the plexi to only let light through where the design was cut out. I have employed a similar technique with other projects and knew I would only need to adjust the spacing from the LED to make it legible.   
+The last design piece for the LEDs was the vinyl ring that would go on the back of the plexi to only let light through where the design was cut out. I have employed a similar technique with other projects and knew I would only need to adjust the spacing from the LED to make it legible.  
 
 ![alt text](images/vinylring.jpeg)  
 

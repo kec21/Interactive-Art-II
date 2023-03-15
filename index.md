@@ -22,3 +22,7 @@ Here is the link to my at home labs and other experiments:
 [Feb 19](20230219_midtermproject.html)  
 [Feb 22](20230222_midtermproject.html)  
 [Feb 26](20230226_midtermproject.html)  
+[Mar 03](20230303_midtermproject.html)  
+[Mar 09](20230309_midtermproject.html)  
+[Mar 16](20230316_finalproject.html)  
+[Mar 20](20230320_finalproject.html)  
