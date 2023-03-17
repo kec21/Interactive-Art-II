@@ -2,12 +2,6 @@
 
 This is where I will be keeping all my documentation for the semester, but also where I will store my thoughts, observations, and ideas that emerge in connection with interactive art.
 
-Table of contents for in-class notes:
-
-- [Jan 11](20230111_classnotes.md)
-- [Jan 11](20230111_classnotes.md)
-- [Jan 11](20230111_classnotes.md)
-
 Here is the link to my at home labs and other experiments:
 
 [Jan 11](20230111_classmeeting.html)  
