@@ -25,4 +25,5 @@ Here is the link to my at home labs and other experiments:
 [Mar 03](20230303_midtermproject.html)  
 [Mar 09](20230309_midtermproject.html)  
 [Mar 16](20230316_finalproject.html)  
+[Mar 17](20230317_finalproject.html)  
 [Mar 20](20230320_finalproject.html)  
