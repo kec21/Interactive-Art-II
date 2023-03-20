@@ -9,4 +9,4 @@ I also want to finish my Growth Coat - a wearable art piece that I am nearing co
 Here is the most recent picture of the coat:
 
 ![alt text](images/growthcoat.jpeg)  
-![alt text](images/coatinside.jpeg)  
+![alt text](images/coatinside.jpg)  
